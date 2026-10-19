@@ -1,0 +1,7 @@
+{
+  "name": "gcp-iam-privilege-audit-linter",
+  "version": "1.0.0",
+  "description": "Static security auditing linter for Google Cloud (GCP) IAM policies targeting over-privileged primitive roles.",
+  "main": "linter_core.js",
+  "type": "module"
+}
